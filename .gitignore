@@ -1,0 +1,5 @@
+# Arquivo para ignorar arquivos indesejados no Git
+__pycache__/
+*.pyc
+*.pyo
+venv/
